@@ -1,5 +1,8 @@
 Este es el primer archivo
 Añadiendo lineas
+<<<<<<< HEAD
 Uno
 Dos
 
+=======
+>>>>>>> lierni_sarraoa_rama
