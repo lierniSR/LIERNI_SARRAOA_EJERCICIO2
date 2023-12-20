@@ -1,6 +1,1 @@
-Esto es el primer documento
-<<<<<<< HEAD
-Vamos a añadir una linea mas para ver el cambio
-Para añadir el cambio git diff
-=======
->>>>>>> parent of 6865294 (Validando la modificacion)
+Este es el primer archivo
